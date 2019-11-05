@@ -258,6 +258,7 @@
 
 .show-promo-slide {
 	display: flex;
+	flex-direction: row;
 }
 
 .promo-shop-bg {
